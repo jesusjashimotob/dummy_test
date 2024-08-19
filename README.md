@@ -1,6 +1,6 @@
 <img src="https://didcom.com.mx/wp-content/uploads/2016/12/Didcom-logo.png" alt="Diagrama de flujo" width="274px" height="75px">
 
-# **Nombre del Proyecto**
+# **Nueva Historia**
 
 ## **Descripción**
 
